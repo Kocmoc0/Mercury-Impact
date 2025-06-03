@@ -11,5 +11,4 @@ Co-Founders: Mrt4a, Stanislavv
 
 # UPD: Oops, looks like something went wrong!!!
 # Current status - DOWN!
-# Zephyrous: I don't know what future have Mercury Impact, we're not able to update it.
-There is much other plans :D
+# Zephyrous: I don't know what future have Mercury Impact, we're not able to update it. There is much other plans :D
