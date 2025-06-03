@@ -1,4 +1,4 @@
-# Mercury-Impact
+# Mercury Impact
 Mercury Impact is Malware-Free Roblox Executor.
 
 ## Credits:
